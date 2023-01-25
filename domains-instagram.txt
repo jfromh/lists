@@ -58,11 +58,13 @@ instagramstatic-a.akamaihd.net.edgesuite.net
 logger.instagram.com
 platform.instagram.com
 scontent-iad3-1.cdninstagram.com
+scontent-ord5-2.cdninstagram.com
 scontent.cdninstagram.com
 telegraph-ash.instagram.com
 white.ish.instagram.com
 www.instagram.com
 cdninstagram.com
 graph.instagram.com
+gateway.instagram.com
 edge-mqtt.facebook.com
 i.instagram.com

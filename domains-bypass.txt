@@ -1,1 +1,3 @@
 ecxysudbqm.com
+apple-dns.net
+gateway.fe.apple-dns.net
